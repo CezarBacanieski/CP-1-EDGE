@@ -29,5 +29,5 @@ A função `map()` é utilizada no código fonte para ajustar os valores lidos p
 Essa função mapeia um valor de uma faixa de entrada para uma faixa de saída.
 
 ## Links
-- [Tinkercad](https://www.tinkercad.com/) - Teste o projeto!!
-- [YouTube](https://www.youtube.com/) - Assista explicação em vídeo!!
+- [Tinkercad](https://www.tinkercad.com/things/lYkVWq2qaxt-copy-of-projeto-cp-finalizado) - Teste o projeto!!
+- [YouTube](https://www.youtube.com/watch?v=I5_tl6Be8LA&t=1s) - Assista explicação em vídeo!!
